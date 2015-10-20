@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LuisEduardoCastroJaimeEntregar</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="tv1">Nombre: </string>
+    <string name="tv2">Numero: </string>
+    <string name="btAgregar">Agregar</string>
+    <string name="btSalir">Salir</string>
+</resources>
